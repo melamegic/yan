@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background: rgb(179,255,248);
+background: linear-gradient(90deg, rgba(179,255,248,0.586338759136467) 22%, rgba(251,255,180,0.5555264342064952) 48%, rgba(231,255,123,0.8580474426098564) 100%);
+font-size: 30px;
+
+}
+img{
+  border-radius: 62% 38% 57% 43% / 71% 26% 74% 29%  ;
+}
+ol{
+  text-align: left;
+
+}
+table{
+
+}
